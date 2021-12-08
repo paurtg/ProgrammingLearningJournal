@@ -1,7 +1,11 @@
 # ProgrammingLearningJournal
 
+## 14/10/21
+When creating a chasing script, object would not stop t a certain distance (tutorial followed was not helpful). 
 
+The issue was that at the beginning int MaxDist was a small number and int MinDist was a bigger number and there was no if statement. I reversed this two, created an if statement and it worked.
 
+## 19
 
 
 
